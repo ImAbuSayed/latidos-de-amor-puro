@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-de-amor-puro/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Latidos de amor puro](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-de-amor-puro/) |
+| **Get License** | [Music Rights & Licensing for Latidos de amor puro](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-de-amor-puro/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Latidos de amor puro, late en la noche
+> Tu fuego me llama, no hay quien me esconda
+> Bailamos tan lento, el tiempo se rompe
+> Tu boca es mi gloria, tu piel me responde
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -108,7 +111,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
 | **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
