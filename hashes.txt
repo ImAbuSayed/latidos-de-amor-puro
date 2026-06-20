@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Latidos de amor puro
+
+This log tracks the cryptographic history and versioning for the song **Latidos de amor puro** (latidos-de-amor-puro).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T03:40:00.351439 | `v1` | `487d22605b6d06effe7d2915b42b44298b93c6ebc73b5c77ff85c1570618bfb2` | `8f715611802374ac15c373d7a23279cb9f25706e286b9829dbc0a328339d2a85` | `2026-06-21_latidos-de-amor-puro-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
